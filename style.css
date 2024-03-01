@@ -1,0 +1,59 @@
+* :root {
+    margin: 0;
+    padding: 0;   
+}
+
+.grogu {
+    width: 6%;
+}
+
+body {
+    background: url(images/galaxya.jpg) no-repeat;
+    background-size: 100%;
+    background-color: black;
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: yellow;
+    border: 20px;
+    border-color: black;
+}
+
+h2 {
+    color: yellow;
+}
+
+p {
+    color: yellow;
+    font-weight: bold;
+}
+
+textarea {
+    background-color: yellow;
+    color: black;
+}
+
+.criptografar {
+    background-color: yellow;
+    color: black;
+}
+
+.descriptografar {
+    background-color: yellow;
+    color: black;
+}
+
+.copiar {
+    background-color: yellow;
+    color: black;
+}
+
+footer {
+    background-color: yellow;
+    max-width: 100%;
+    height: auto;
+    color: black;
+}
